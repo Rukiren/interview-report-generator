@@ -1,4 +1,6 @@
-# interview-report-generator
+# interview-report-generator 訪談報告產生器
+
+記得 pip install openai
 
 使用方式：
 1. 修改 info.txt 內容，改為受訪對象資訊，此部分越詳細能夠使最後報告產生結果越詳細
